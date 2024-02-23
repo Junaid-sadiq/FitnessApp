@@ -1,6 +1,12 @@
-# befit
+<h1 align="center">
+FitnessApp
+</h1>
 
-befit react-native app 
+<h3 align="center">
+    Fitness app built with Expo/React Native
+</h3>
+
+![Image](./assets/preview.png)
 
 ## Installation
 
@@ -10,7 +16,6 @@ first, install project dependencies using "yarn" in the project folder
 yarn install
 ```
 
-note: make sure to install "expo-cli", "npm" , "composer" and "yarn"  beforehand
 
 ## usage
 
@@ -20,7 +25,6 @@ start the project using yarn
 yarn start
 ```
 
-for viewing different pages replace the page-tag in line 103 of the App.js
 
 ### page list :
 ```javascript
